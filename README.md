@@ -11,7 +11,7 @@ WARNING: It is highly recommended to come from global miui 12.5 and to follow st
   4. Install gapps (Optional)
   5. Reboot
 
-### Update installation:
+#### Update installation:
 
   1. Reboot to recovery
   2. Wipe Dalvik/Cache
