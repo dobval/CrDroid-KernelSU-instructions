@@ -7,7 +7,7 @@ WARNING: It is highly recommended to come from global miui 12.5 and to follow st
 
   1. Use [this recovery](https://t.me/RedmiNote8ProUpdates/999)
   2. Wipe system, dalvik, cache, vendor, format data
-  3. Install Rom
+  3. Install [Rom](https://forum.xda-developers.com/t/rom-official-begonia-13-crdroidandroid-v9-x.4492965/)
   4. Install gapps (Optional)
   5. Reboot
 
