@@ -19,3 +19,14 @@ WARNING: It is highly recommended to come from global miui 12.5 and to follow st
   4. Install gapps (Optional)
   5. Reboot
 
+### KernelSU (Root) installation
+go to the following [telegram](https://t.me/s/TimJostenFiles/191)
+
+1. Update to the latest Version of crDroid (see above steps)
+2. Flash [Stock Kernel zip](https://t.me/TimJostenFiles/293?single) in TWRP
+3. Flash [kernelSU Installer zip](https://t.me/TimJostenFiles/294?single) in TWRP
+4. Flash [KernelSU Updater zip](https://t.me/TimJostenFiles/295?single) in TWRP
+5. Install [KernelSU Manager APK](https://t.me/TimJostenFiles/296?single) like any apk (not in TWRP)
+
+#### Uninstall kernelSU: (optional)
+1. Flash KernelSU Uninstaller in TWRP to get rid of kernelSU.
