@@ -102,3 +102,4 @@ go to the following [telegram](https://t.me/s/TimJostenFiles/191)
 #### Uninstall MinMicroG
 1. Rename the release, add <code>uninstall-</code>
    (For example, <code>MinMicroG-variant-version-signed.zip</code> to <code>uninstall-MinMicroG-variant-version-signed.zip</code>)
+2. Flash in Recovery
