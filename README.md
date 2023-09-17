@@ -40,3 +40,4 @@ go to the following [telegram](https://t.me/s/TimJostenFiles/191)
 
 #### Uninstall MinMicroG
 1. Rename the release, add "uninstall-"
+   (For example, MinMicroG-variant-version-signed.zip to uninstall-MinMicroG-variant-version-signed.zip)
