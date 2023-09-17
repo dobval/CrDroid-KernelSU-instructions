@@ -33,11 +33,72 @@ go to the following [telegram](https://t.me/s/TimJostenFiles/191)
 
 ### Install MinMicroG (Optional)
 1. Choose a version from the table (taken from [this github](https://github.com/FriendlyNeighborhoodShane/MinMicroG))
-
+<table>
+<thead>
+<tr>
+<th>Component \ Variant</th>
+<th>Standard</th>
+<th>NoGoolag</th>
+<th>Minimal</th>
+<th>MinimalIAP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MicroG</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>Maps APIv1</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+<td>x</td>
+</tr>
+<tr>
+<td>Fake Store</td>
+<td></td>
+<td>x</td>
+<td>x</td>
+<td></td>
+</tr>
+<tr>
+<td>Google Play Store</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td>x</td>
+</tr>
+<tr>
+<td>Aurora Store</td>
+<td></td>
+<td>x</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Aurora Droid</td>
+<td>x</td>
+<td>x</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Google Sync adapters</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 2. Download a [release](https://github.com/FriendlyNeighborhoodShane/MinMicroG_releases/releases)
 3. Flash in Recovery
 
 #### Uninstall MinMicroG
-1. Rename the release, add "uninstall-"
-   (For example, MinMicroG-variant-version-signed.zip to uninstall-MinMicroG-variant-version-signed.zip)
+1. Rename the release, add <code>uninstall-</code>
+   (For example, <code>MinMicroG-variant-version-signed.zip</code> to <code>uninstall-MinMicroG-variant-version-signed.zip</code>)
