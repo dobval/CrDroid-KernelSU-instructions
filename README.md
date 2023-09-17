@@ -30,3 +30,6 @@ go to the following [telegram](https://t.me/s/TimJostenFiles/191)
 
 #### Uninstall kernelSU: (optional)
 1. Flash KernelSU Uninstaller in TWRP to get rid of kernelSU.
+
+### Install MinMicroG (Optional)
+(choose a version from the table (taken from [this github](https://github.com/FriendlyNeighborhoodShane/MinMicroG))
